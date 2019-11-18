@@ -90,7 +90,7 @@ def tf_idf(word, doc):
     lenght = len(doc)
     number = doc.count(word)
     tf = number / lenght
-    idf = 1.0 + math.log(30000 / len(index[str(data[word])]))
+    idf = math.log(30000 / len(index[str(data[word])]))
 
     return tf * idf
 
