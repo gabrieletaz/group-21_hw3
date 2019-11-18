@@ -20,6 +20,6 @@ exercise_4.py: python file that contains the implementation of the algorithm tha
 
 main.ipynb: a Jupyter notebook explaines the strategies you adopted solving the homework and the Bonus point (visualization task)
 
-then we put here the link to get every json file you need to run the codes:
+> then we put here the link to get every json file you need to run the codes:
 
-https://drive.google.com/open?id=1nspWOvAFQVJCB4w7RoEL-KRwwPF5WYKh
+> https://drive.google.com/open?id=1nspWOvAFQVJCB4w7RoEL-KRwwPF5WYKh
